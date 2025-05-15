@@ -1,4 +1,4 @@
-Hi, I’m @ongeraian  
+Hi, I’m @ongera ian  
 👀 I’m interested in web development, software engineering, and tech innovations.  
 🌱 I’m currently learning PHP, MySQL, and building full-stack web applications.  
 💞️ I’m looking to collaborate on open-source projects and student tech initiatives.  
